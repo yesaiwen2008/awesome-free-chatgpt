@@ -42,7 +42,7 @@
 
 - [ 🆓🌎🔔 ] [https://freechatgpt.chat](https://freechatgpt.chat/) from <https://github.com/ztjhz/ChatGPTFreeApp>
 
-- [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)
+- [ 🆓 ] [https://dev.yqcloud.top](https://dev.yqcloud.top)  用的是bing引擎
 
 - [ 🆓🌎 ] [https://ai.bo-e.com](https://ai.bo-e.com/)
 
